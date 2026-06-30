@@ -5,6 +5,7 @@
          "name": "",
          "templated": false
       },
+      #testcomment
       "self": {
          "href": "/scans/86ac32bc-1ccc-4b5c-abc0-d7cc8ebbb17d/findings",
          "name": "",
